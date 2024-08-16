@@ -6,5 +6,9 @@ Preprint on ChemRxiv: https://doi.org/10.26434/chemrxiv-2024-dtc1w.
 
 Code and data
 -------------
+- preliminary tutorials:
+  
+  - https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#multi-state-ani-models
+  - https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#gapmd
 - The [MLatom](https://github.com/dralgroup/mlatom) version with all the functionalities described in the preprint are scheduled to be released on August 21, 2024: please [subscribe](https://xacs.xmu.edu.cn/docs/mlatom/contact.html) for updates.
 - The data (training sets and models) will be made available here at around the same time.
