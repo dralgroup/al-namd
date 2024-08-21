@@ -6,9 +6,13 @@ Preprint on ChemRxiv: https://doi.org/10.26434/chemrxiv-2024-dtc1w.
 
 Code and data
 -------------
-- preliminary tutorials:
-  
-  - https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#multi-state-ani-models
-  - https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#gapmd
-- The [MLatom](https://github.com/dralgroup/mlatom) version with all the functionalities described in the preprint are scheduled to be released on August 21, 2024: please [subscribe](https://xacs.xmu.edu.cn/docs/mlatom/contact.html) for updates.
-- The data (training sets and models) will be made available here at around the same time.
+
+- Active learning with multi-state ANI, multi-state ANI model, and gapMD are implemented in the open-source [MLatom](https://github.com/dralgroup/mlatom) (version >=3.10). Please see the MLatom page for more details. Links to tutorials are given below.
+- All data (training sets and models) will be made available here later. The MS-ANI model for fulvene models is already available in the tutorials below.
+
+Tutorials
+---------
+
+- active learning: https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#active-learning
+- multi-state ANI: https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#multi-state-ani-models
+- gapMD: https://xacs.xmu.edu.cn/docs/mlatom/tutorial_namd.html#gapmd
