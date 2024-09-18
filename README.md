@@ -8,7 +8,7 @@ Code and data
 -------------
 
 - Active learning with multi-state ANI, multi-state ANI model, and gapMD are implemented in the open-source [MLatom](https://github.com/dralgroup/mlatom) (version >=3.10). Please see the MLatom page for more details. Links to tutorials are given below.
-- All data (training sets and models) will be made available here later. The MS-ANI model for fulvene models is already available in the tutorials below.
+- All data is available in the above repository, with the exception of the azobenzene training set, which is available at the following DOI: 10.6084/m9.figshare.27024196
 
 Tutorials
 ---------
