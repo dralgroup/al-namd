@@ -1,8 +1,7 @@
 # Active learning for nonadiabatic molecular dynamics
 
-Preprint:
-- Mikołaj Martyka, Lina Zhang, Fuchun Ge, Yi-Fan Hou, Joanna Jankowska*, Mario Barbatti*, Pavlo O. Dral*. Charting electronic-state manifolds across molecules with multi-state learning and gap-driven dynamics via efficient and robust active learning. 2024.
-Preprint on ChemRxiv: https://doi.org/10.26434/chemrxiv-2024-dtc1w.
+Mikołaj Martyka, Lina Zhang, Fuchun Ge, Yi-Fan Hou, Joanna Jankowska*, Mario Barbatti*, Pavlo O. Dral. [Charting electronic-state manifolds across molecules with multi-state learning and gap-driven dynamics via efficient and robust active learning](https://doi.org/10.1038/s41524-025-01636-z). *npj Comput. Mater.* **2025**, *11*, 132. DOI: 10.1038/s41524-025-01636-z.
+Preprint on ChemRxiv: https://doi.org/10.26434/chemrxiv-2024-dtc1w (2024-08-06).
 
 Code and data
 -------------
